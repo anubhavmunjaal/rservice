@@ -1,0 +1,33 @@
+{
+  "custom": [
+    {
+      "filename" : "app.php",
+      "path" : "@core/config"
+    },
+    {
+      "filename" : "broadcasting.php",
+      "path" : "@core/config"
+    },
+    {
+      "filename" : "composer.json",
+      "path" : "@core"
+    },
+    {
+      "filename" : "composer.lock",
+      "path" : "@core"
+    },
+    {
+      "filename" : "package.json",
+      "path" : "@core"
+    },
+    {
+      "filename" : "modules_statuses.json",
+      "path" : "@core"
+    },
+    {
+      "filename" : "webpack.mix.js",
+      "path" : "@core"
+    }
+  ],
+  "version": "1.3.0"
+}
